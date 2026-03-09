@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://situs-terpercaya.github.io/sitemap.xml
