@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://situs-terpercaya.github.io/</loc>
+    <lastmod>2025-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://situs-terpercaya.github.io/perhitungan-rtp-dalam-perspektif-analisis-sistem-permainan-digital.html</loc>
+    <lastmod>2025-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://galicuan.store/github-rtp.webp</image:loc>
+      <image:title>Perhitungan RTP dalam Perspektif Analisis Sistem Permainan Digital</image:title>
+      <image:caption>Diagram ilustrasi perhitungan RTP dalam sistem permainan digital — GALICUAN</image:caption>
+    </image:image>
+    <news:news>
+      <news:publication>
+        <news:name>GALICUAN</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2025-03-09</news:publication_date>
+      <news:title>Perhitungan RTP dalam Perspektif Analisis Sistem Permainan Digital</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://situs-terpercaya.github.io/panduan-rtp-slot.html</loc>
+    <lastmod>2025-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://galicuan.store/github-rtp.webp</image:loc>
+      <image:title>Panduan RTP Slot: Pengertian, Cara Kerja, dan Interpretasi</image:title>
+      <image:caption>Ilustrasi konsep Return to Player dalam sistem permainan slot digital</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://situs-terpercaya.github.io/cara-memilih-slot-rtp-tinggi.html</loc>
+    <lastmod>2025-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://galicuan.store/github-rtp.webp</image:loc>
+      <image:title>Cara Memilih Slot dengan RTP Tinggi: Panduan Perbandingan dan Analisis</image:title>
+      <image:caption>Ilustrasi perbandingan nilai RTP slot digital berbagai provider</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://situs-terpercaya.github.io/strategi-slot-online.html</loc>
+    <lastmod>2025-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://galicuan.store/github-rtp.webp</image:loc>
+      <image:title>Strategi Slot Online: Pendekatan Berbasis Probabilitas dan Manajemen Risiko</image:title>
+      <image:caption>Diagram strategi slot online berbasis probabilitas dan manajemen risiko</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
